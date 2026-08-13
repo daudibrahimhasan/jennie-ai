@@ -31,7 +31,7 @@ Let's be honest. Academic AI tools charge you **$20/month** to talk to the same 
 
 **openJennie said: nah.**
 
-We reverse-engineered the entire Jenni AI experience — the grounded autocomplete, the 200M+ paper search, the inline citation workflow, the claim inspector — and made it **free, open-source, and BYOK-first**.
+We exposed it — the grounded autocomplete, the 200M+ paper search, the inline citation workflow, the claim inspector — and made it **free, open-source, and BYOK-first**.
 
 Your API key → Your model → Your cost → **Your research.**
 
