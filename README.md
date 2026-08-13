@@ -107,12 +107,6 @@ npm run preview  # Serve the production build locally
 - Auto-detects provider from key prefix (`AQ.*` → Gemini, `sk-` → OpenAI, `sk-ant-` → Anthropic)
 - Green `BYOK Connected` status badge when active
 
-### 🎨 Pixel-Perfect UI
-- Reverse-engineered from Jenni AI's design system
-- Design tokens: `#323dd6` primary, `#010542` dark accent, `#fcfcff` background
-- Inter + Be Vietnam Pro + Fragment Mono typography
-- Micro-animations, glassmorphism, and responsive layout
-- Dark footer, gradient hero, smooth hover transitions
 
 ---
 
