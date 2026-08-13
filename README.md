@@ -278,6 +278,7 @@ If openJennie saved you from paying $240/year for a wrapped ChatGPT with a citat
 **React 19** · **TypeScript 5.7** · **Vite 6** · **Tailwind CSS 4** · **Zustand 5** · **Lucide Icons**
 
 **Semantic Scholar API** · **Google Gemini** · **OpenAI GPT-4o** · **Anthropic Claude**
+
 Built by [**@daudibrahimhasan**](https://github.com/daudibrahimhasan) · Powered by [**Nexasity**](https://github.com/nexasity)
 
 </div>
